@@ -38,7 +38,7 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   &nbsp;
-  <a href="https://singhswayam.github.io/Portfolio/" target="blank">
+  <a href="https://swayamsingh.vercel.app/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" />
   </a>
   &nbsp;
